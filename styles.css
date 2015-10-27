@@ -1,5 +1,5 @@
 .FormHeader {
-    width: 1300px;
+    width: 925px;
     padding: 25px;
     border: 10px solid #4CBB17;
     margin: 25px;
@@ -7,7 +7,7 @@
 }
 
 .FormSubmission {
-  width: 550px;
+  width: 400px;
   height: 400px;
     padding: 25px;
     border: 10px solid #4CBB17;
@@ -17,13 +17,13 @@
 }
 
 .LandingPageImage {
-  width: 600px;
+  width: 400px;
   height: 400px;
   padding: 25px;
   border: 10px solid #4CBB17;
   margin: 25px;
   font-size: 200%;
-    float: right;
+    float: left;
 }
 
 .LandingPageImage img {
